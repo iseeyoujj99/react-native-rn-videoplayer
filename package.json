@@ -1,5 +1,5 @@
 {
-  "name": "react-native-rn-videoplayer",
+  "name": "react-native-rn-videoplayer-fork",
   "version": "2.2.4",
   "description": "A customisable React Native video player for Android and IOS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngxu/react-native-rn-videoplayer.git"
+    "url": "git+https://github.com/iseeyoujj99/react-native-rn-videoplayer.git"
   },
   "keywords": [
     "react-native",
@@ -23,11 +23,11 @@
     "progress"
   ],
   "author": {
-    "name": "ngxu",
-    "email": "839650216@qq.com"
+    "name": "Test",
+    "email": "test@test.com"
   },
   "license": "",
-  "homepage": "https://github.com/ngxu/react-native-rn-videoplayer#readme",
+  "homepage": "https://github.com/iseeyoujj99/react-native-rn-videoplayer.git#readme",
   "dependencies": {
     "react-native-linear-gradient": "^2.5.6",
     "react-native-orientation-locker": "^1.1.8",
